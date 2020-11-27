@@ -193,7 +193,3 @@ void checker(int a, int b, int n){
     }
 }
 
-
-
-
-
