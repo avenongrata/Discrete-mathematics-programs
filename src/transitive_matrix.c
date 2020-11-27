@@ -227,10 +227,3 @@ void closing(int a, int b, int n){
     }
 }
 
-
-
-
-
-
-
-
