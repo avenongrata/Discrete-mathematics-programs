@@ -101,17 +101,3 @@ void paint(int a, int n){
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
